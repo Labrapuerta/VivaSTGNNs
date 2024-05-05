@@ -26,3 +26,6 @@ When a flight arrives at its destination city:
 Our multinodal graph neural network architecture captures the interdependencies and interactions between airships and cities, enabling dynamic modeling of flight operations and product sales predictions within this transportation system.
 
 This model allows for real-time analysis and prediction of transportation logistics and product demand across interconnected airships and cities, providing valuable insights for optimizing flight operations and inventory management.
+
+
+![Project Logo or Screenshot](images/si.drawio.png)
