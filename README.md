@@ -1,4 +1,4 @@
-![Project Logo or Screenshot](images/logo.png)
+![Project Logo or Screenshot](images/Logo.png)
 
 # VivaSTGNNs
 
